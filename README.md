@@ -1,2 +1,1 @@
-blog
-stay tuned...will change more
+stay tuned...will change 
